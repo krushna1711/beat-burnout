@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Beat Burnout</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Beat Burnout</h1>
+    <p>A Student's Guide to Academic Wellness</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#symptoms">Symptoms</a></li>
+      <li><a href="#causes">Causes</a></li>
+      <li><a href="#tips">Tips</a></li>
+      <li><a href="#resources">Resources</a></li>
+    </ul>
+  </nav>
+
+  <section id="intro">
+    <h2>Welcome!</h2>
+    <p>Feeling tired, stressed, or unmotivated? You might be experiencing academic burnout. You're not alone — and there are ways to manage it.</p>
+  </section>
+
+  <section id="symptoms">
+    <h2>Symptoms of Burnout</h2>
+    <ul>
+      <li>Constant fatigue</li>
+      <li>Lack of motivation</li>
+      <li>Decreased academic performance</li>
+      <li>Feeling detached or hopeless</li>
+    </ul>
+  </section>
+
+  <section id="causes">
+    <h2>Causes of Burnout</h2>
+    <ul>
+      <li>Over-scheduling and lack of breaks</li>
+      <li>Excessive screen time</li>
+      <li>Pressure to succeed</li>
+      <li>Neglecting sleep or nutrition</li>
+    </ul>
+  </section>
+
+  <section id="tips">
+    <h2>How to Avoid Burnout</h2>
+    <ol>
+      <li>Set realistic goals</li>
+      <li>Take regular breaks (use the 50/10 rule)</li>
+      <li>Sleep 7–8 hours daily</li>
+      <li>Talk to someone – don’t bottle it up</li>
+      <li>Practice mindfulness or light exercise</li>
+    </ol>
+  </section>
+
+  <section id="resources">
+    <h2>Resources & Support</h2>
+    <p>Need help? Reach out to school counselors or mental health services. Visit:</p>
+    <ul>
+      <li><a href="https://www.betterhelp.com" target="_blank">BetterHelp</a></li>
+      <li><a href="https://www.crisistextline.org" target="_blank">Crisis Text Line</a></li>
+      <li><a href="https://www.headspace.com" target="_blank">Headspace for Students</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Created by [Your Name] | 2025</p>
+  </footer>
+</body>
+</html>
